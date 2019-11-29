@@ -6,4 +6,5 @@ This repository contains source code from tutorials and guides I've followed fro
 2. LocalLibrary(MDN)(Django) - [link](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website)
 3. Polls App(Official Django Docs)(Django) - [link](https://docs.djangoproject.com/en/2.2/intro/)
 4. LocalLibrary(MDN)(NodeJS/Express) - [link](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-4. DevConnector(Brad Traversy- MERN Stack Front To Back)(NodeJs/Express/React) - [link](https://www.udemy.com/course/mern-stack-front-to-back/)
+5. DevConnector(Brad Traversy- MERN Stack Front To Back)(NodeJs/Express/React/Redux/MongoDB) - [link](https://www.udemy.com/course/mern-stack-front-to-back/)
+6. DRF Tutorial(Django Rest Framework Docs)(Django/DRF) - [link](https://www.django-rest-framework.org/tutorial/1-serialization/)
