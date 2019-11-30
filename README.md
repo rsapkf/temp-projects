@@ -2,9 +2,12 @@
 
 This repository contains source code from tutorials and guides I've followed from books, docs, online, etc.
 
-1. Django Blog(Corey Schafer)(Django) - [link](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
-2. LocalLibrary(MDN)(Django) - [link](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website)
-3. Polls App(Official Django Docs)(Django) - [link](https://docs.djangoproject.com/en/2.2/intro/)
-4. LocalLibrary(MDN)(NodeJS/Express) - [link](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-5. DevConnector(Brad Traversy- MERN Stack Front To Back)(NodeJs/Express/React/Redux/MongoDB) - [link](https://www.udemy.com/course/mern-stack-front-to-back/)
-6. DRF Tutorial(Django Rest Framework Docs)(Django/DRF) - [link](https://www.django-rest-framework.org/tutorial/1-serialization/)
+Name | Source | Main Technologies | Links
+--- | --- | --- | ---
+Django Blog | Corey Schafer(YouTube) | Django |  [link](https://www.youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
+DevConnector | Brad Traversy- MERN Stack Front To Back | NodeJs/Express/React/Redux/MongoDB |  [link](https://www.udemy.com/course/mern-stack-front-to-back/)
+LocalLibrary | MDN | Django |  [link](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Tutorial_local_library_website)
+LocalLibrary | MDN | NodeJS/Express | [link](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+Polls App | Official Django Docs | Django |  [link](https://docs.djangoproject.com/en/2.2/intro/)
+Tic-Tac-Toe | ReactJS Docs | React | [link](https://reactjs.org/tutorial/tutorial.html)
+DRF Tutorial | Django Rest Framework Docs | Django/DRF |  [link](https://www.django-rest-framework.org/tutorial/1-serialization/)
