@@ -14,6 +14,7 @@ Flask MicroBlog | Miguel Grinberg | Flask | [link](https://blog.miguelgrinberg.c
 Polls App | Official Django Docs | Django | [link](https://docs.djangoproject.com/en/2.2/intro/)
 Tic-Tac-Toe | ReactJS Docs | React | [link](https://reactjs.org/tutorial/tutorial.html)
 TodoApp | William Vincent | Django/DRF/React | [link](https://wsvincent.com/django-rest-framework-react-tutorial/)
+CSS In 44 Minutes | Jeremy Thomas | HTML5/CSS3/JavaScript | [link](https://jgthms.com/css-in-44-minutes-ebook/)
 JavaScript Tic-Tac-Toe | Kyle Cook | HTML5/CSS3/JavaScript | [link](https://www.youtube.com/watch?v=Y-GkMjUZsmM)
 
 Labels:<br>
